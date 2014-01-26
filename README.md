@@ -7,17 +7,17 @@ Simple to use, single page processing contact form free for anyone to use.
 Setup as simple as changing the 'mail-to' address in the 'index.php' file.
 
 REQUIRED
-````````````````````````````````````````````````````````````````````````|
-[CSS]																			|
------ bootstrap.min.css													|
-																					|
-[JS]																				|
------ jQuery (latest version)											|
------ jQuery.validate.min.js											|
------ bootstrap.min.js														|	
-																					|
-index.php																		|
-																					|
+````````````````````````````````````````````````````````````````````````
+[CSS]																			
+----- bootstrap.min.css													
+																					
+[JS]																				
+----- jQuery (latest version)											
+----- jQuery.validate.min.js											
+----- bootstrap.min.js															
+																					
+index.php																		
+																					
 ````````````````````````````````````````````````````````````````````````
 
 Built using Zaefferer's jQuery Validation Plugin and using Bootstrap's responsive framework.
